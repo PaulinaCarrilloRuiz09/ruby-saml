@@ -1,4 +1,4 @@
-README.rdoc
+ SAMLResponseREADME.rdoc
 lib/**/*.rb
 bin/*
 features/**/*.feature
